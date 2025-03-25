@@ -276,7 +276,7 @@ export default styled(DPChat)`
   .contWid{
     display: flex;
     width: 90%;
-    margin-bottom: 20px;
+    margin-bottom: 60px;
     margin-top: 20px;
   }
 
